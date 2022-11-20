@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = ConsoleAppMailSender
+build_property.ProjectDir = C:\Users\mirror\source\repos\C#学习整理\依赖注入\依赖注入一个服务类对应多个实现\ConsoleAppMailSender - Copy\ConsoleAppMailSender\

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleAppMailSender": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "UserName": "\"1111\""
+      }
+    }
+  }
+}

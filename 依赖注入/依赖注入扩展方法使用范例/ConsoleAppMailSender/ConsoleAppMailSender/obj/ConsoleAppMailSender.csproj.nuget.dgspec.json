@@ -1,0 +1,269 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\ConsoleAppMailSender\\ConsoleAppMailSender.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\ConfigServices\\ConfigServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\ConfigServices\\ConfigServices.csproj",
+        "projectName": "ConfigServices",
+        "projectPath": "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\ConfigServices\\ConfigServices.csproj",
+        "packagesPath": "C:\\Users\\mirror\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\ConfigServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mirror\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\ConsoleAppMailSender\\ConsoleAppMailSender.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\ConsoleAppMailSender\\ConsoleAppMailSender.csproj",
+        "projectName": "ConsoleAppMailSender",
+        "projectPath": "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\ConsoleAppMailSender\\ConsoleAppMailSender.csproj",
+        "packagesPath": "C:\\Users\\mirror\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\ConsoleAppMailSender\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mirror\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\MailServices\\MailServices.csproj": {
+                "projectPath": "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\MailServices\\MailServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\LogServices\\LogServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\LogServices\\LogServices.csproj",
+        "projectName": "LogServices",
+        "projectPath": "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\LogServices\\LogServices.csproj",
+        "packagesPath": "C:\\Users\\mirror\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\LogServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mirror\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\MailServices\\MailServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\MailServices\\MailServices.csproj",
+        "projectName": "MailServices",
+        "projectPath": "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\MailServices\\MailServices.csproj",
+        "packagesPath": "C:\\Users\\mirror\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\MailServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mirror\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\ConfigServices\\ConfigServices.csproj": {
+                "projectPath": "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\ConfigServices\\ConfigServices.csproj"
+              },
+              "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\LogServices\\LogServices.csproj": {
+                "projectPath": "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\LogServices\\LogServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

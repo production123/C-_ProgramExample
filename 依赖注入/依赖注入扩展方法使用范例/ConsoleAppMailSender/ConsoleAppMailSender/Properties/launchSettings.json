@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "ConsoleAppMailSender": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2V1kn/48QHgDlYq6SczGiwSIQUd4lCdefjSyph59KC1SCpwSe213440FdQLNYP80N73ba5kt7HL73Aoay84HlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mirror\\source\\repos\\C#学习整理\\依赖注入\\依赖注入一个服务类对应一个实现\\ConsoleAppMailSender\\ConsoleAppMailSender\\ConsoleAppMailSender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mirror\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\mirror\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,20 @@
+C:\Users\mirror\source\repos\C#学习整理\依赖注入\ConsoleAppMailSender\ConfigServices\bin\Debug\netstandard2.1\ConfigServices.deps.json
+C:\Users\mirror\source\repos\C#学习整理\依赖注入\ConsoleAppMailSender\ConfigServices\bin\Debug\netstandard2.1\ConfigServices.dll
+C:\Users\mirror\source\repos\C#学习整理\依赖注入\ConsoleAppMailSender\ConfigServices\bin\Debug\netstandard2.1\ConfigServices.pdb
+C:\Users\mirror\source\repos\C#学习整理\依赖注入\ConsoleAppMailSender\ConfigServices\obj\Debug\netstandard2.1\ConfigServices.csproj.AssemblyReference.cache
+C:\Users\mirror\source\repos\C#学习整理\依赖注入\ConsoleAppMailSender\ConfigServices\obj\Debug\netstandard2.1\ConfigServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirror\source\repos\C#学习整理\依赖注入\ConsoleAppMailSender\ConfigServices\obj\Debug\netstandard2.1\ConfigServices.AssemblyInfoInputs.cache
+C:\Users\mirror\source\repos\C#学习整理\依赖注入\ConsoleAppMailSender\ConfigServices\obj\Debug\netstandard2.1\ConfigServices.AssemblyInfo.cs
+C:\Users\mirror\source\repos\C#学习整理\依赖注入\ConsoleAppMailSender\ConfigServices\obj\Debug\netstandard2.1\ConfigServices.csproj.CoreCompileInputs.cache
+C:\Users\mirror\source\repos\C#学习整理\依赖注入\ConsoleAppMailSender\ConfigServices\obj\Debug\netstandard2.1\ConfigServices.dll
+C:\Users\mirror\source\repos\C#学习整理\依赖注入\ConsoleAppMailSender\ConfigServices\obj\Debug\netstandard2.1\ConfigServices.pdb
+C:\Users\mirror\source\repos\C#学习整理\依赖注入\依赖注入一个服务类对应多个实现\ConsoleAppMailSender - Copy\ConfigServices\bin\Debug\netstandard2.1\ConfigServices.deps.json
+C:\Users\mirror\source\repos\C#学习整理\依赖注入\依赖注入一个服务类对应多个实现\ConsoleAppMailSender - Copy\ConfigServices\bin\Debug\netstandard2.1\ConfigServices.dll
+C:\Users\mirror\source\repos\C#学习整理\依赖注入\依赖注入一个服务类对应多个实现\ConsoleAppMailSender - Copy\ConfigServices\bin\Debug\netstandard2.1\ConfigServices.pdb
+C:\Users\mirror\source\repos\C#学习整理\依赖注入\依赖注入一个服务类对应多个实现\ConsoleAppMailSender - Copy\ConfigServices\obj\Debug\netstandard2.1\ConfigServices.csproj.AssemblyReference.cache
+C:\Users\mirror\source\repos\C#学习整理\依赖注入\依赖注入一个服务类对应多个实现\ConsoleAppMailSender - Copy\ConfigServices\obj\Debug\netstandard2.1\ConfigServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirror\source\repos\C#学习整理\依赖注入\依赖注入一个服务类对应多个实现\ConsoleAppMailSender - Copy\ConfigServices\obj\Debug\netstandard2.1\ConfigServices.AssemblyInfoInputs.cache
+C:\Users\mirror\source\repos\C#学习整理\依赖注入\依赖注入一个服务类对应多个实现\ConsoleAppMailSender - Copy\ConfigServices\obj\Debug\netstandard2.1\ConfigServices.AssemblyInfo.cs
+C:\Users\mirror\source\repos\C#学习整理\依赖注入\依赖注入一个服务类对应多个实现\ConsoleAppMailSender - Copy\ConfigServices\obj\Debug\netstandard2.1\ConfigServices.csproj.CoreCompileInputs.cache
+C:\Users\mirror\source\repos\C#学习整理\依赖注入\依赖注入一个服务类对应多个实现\ConsoleAppMailSender - Copy\ConfigServices\obj\Debug\netstandard2.1\ConfigServices.dll
+C:\Users\mirror\source\repos\C#学习整理\依赖注入\依赖注入一个服务类对应多个实现\ConsoleAppMailSender - Copy\ConfigServices\obj\Debug\netstandard2.1\ConfigServices.pdb
