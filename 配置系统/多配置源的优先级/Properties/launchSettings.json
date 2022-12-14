@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "多配置源的优先级": {
+      "commandName": "Project",
+      "commandLineArgs": "name=CommandLineConfig age=18 proxy:address=ads proxy:prot=80 proxy:ids:0=1 proxy:ids:1=2",
+      "environmentVariables": {
+        "C1_name": "EnvironmentVariables_Config",
+        "C1_age": "66",
+        "C1_proxy:address": "addr",
+        "C1_proxy:ids:0": "3",
+        "C1_proxy:ids:1": "2"
+      }
+    }
+  }
+}

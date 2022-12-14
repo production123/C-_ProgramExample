@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "配置系统_命令行方式读取配置": {
+      "commandName": "Project",
+      "commandLineArgs": "name=Tom age=18 proxy:address=ads proxy:prot=80 proxy:ids:0=1 proxy:ids:1=2"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "json_config",
+  "age": "18",
+  "proxy": { "address": "json_proxy","port": "80" }
+}

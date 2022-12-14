@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "配置系统_命令行方式读取配置": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "C1_name": "Tom",
+        "C1_age": "66",
+        "C1_proxy:address": "adr",
+        "C1_proxy:prot": "888",
+        "C1_proxy:ids:0": "3",
+        "C1_proxy:ids:1": "2"
+      }
+    }
+  }
+}
